@@ -1,5 +1,6 @@
-### DayDreaming
+## DayDreaming
 
 [링크 - 이미지 클릭]
-[![Video Label](![DayDreaming](https://github.com/user-attachments/assets/ad925c48-8592-4fb3-82dc-8854e2df9bcd)
-)](https://youtu.be/XJUOm7yyGXo) 
+
+[![DayDreaming](https://github.com/user-attachments/assets/7e892691-c27c-41b5-903f-79c018da93ae)](https://youtu.be/59USvjy2toI)
+
